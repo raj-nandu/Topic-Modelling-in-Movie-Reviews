@@ -1,0 +1,15 @@
+48 marathi
+33 musical
+8 relationship
+27 comedy
+42 film
+43 hindi
+45 sexualcontent
+13 violence
+3 violent
+44 animation
+5 cleanlanguage
+11 superheroes
+24 action
+22 hero
+4 suspense
